@@ -1,6 +1,6 @@
 const h = require('react-hyperscript')
 const React = require('react')
-const { Link } = require('react-router')
+const Link  = require('react-router')
 
 module.exports = React.createClass({
   getInitialState: function () {
